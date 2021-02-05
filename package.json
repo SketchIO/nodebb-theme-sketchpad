@@ -1,0 +1,8 @@
+{
+  "name": "nodebb-theme-sketchpad",
+  "version": "0.0.0",
+  "description": "Enter a description here",
+  "main": "theme.less",
+  "keywords": [],
+  "license": "MIT"
+}
